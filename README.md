@@ -1,1 +1,1 @@
-# Project_Sprint7
+Aplicación que funciona en Streamlit para generar gráficos de tipo histograma o dispersión a través de botón para cada tipo de gráfico
